@@ -2,7 +2,17 @@
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="500"/>
 </div>
 
-
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/aaditya-patel-b16793261">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#chats?compose=CllgCJTLpmtTtZHsgRbRKsslbshDGnmwNcfpMHsdHqxJLbZxdJTnNsXNhQjgHDcPRQLXhXFmbhg">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/hukum0x0?mibextid=ZbWKwL">
+<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
+</div>
 
 
 
