@@ -13,7 +13,9 @@
 <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
 </div>
-
+<div id="badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=HuKum4u&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 
