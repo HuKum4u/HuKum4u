@@ -1,3 +1,18 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="500"/>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @HuKum4u
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Mathematics:- Statistics, linear algebra etc.
 - 🌱 I’m currently learning programming languages like python, R and also ROS (Robot Operating System)
